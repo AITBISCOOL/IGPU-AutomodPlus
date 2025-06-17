@@ -10,6 +10,8 @@ IGPU Automod with driver spoofing to get the UHD P630 on every device (and shows
 
 # Enjoy!
 
+[Simple Guide](https://www.youtube.com/watch?v=cS8eKF5UhwU)
+
 ## Credits to:
 [BenNottelling](https://www.reddit.com/r/lowendgaming/comments/a4if12/intel_igpu_driver_tweaker_igpuautomod/) - this is the original post and this is the [tool website](https://igpumods.weebly.com/download-the-tool.html)
 and Mecyanned for updating the tool and improving the spoofing
